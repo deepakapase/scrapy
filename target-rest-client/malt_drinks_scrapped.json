@@ -1,0 +1,2562 @@
+[
+    {
+        "description": "", 
+        "dpci": "213-01-0596", 
+        "brand": "White Claw Hard Seltzer", 
+        "tcin": "51609879", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51609879", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51609879"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "White Claw&#174; Variety Pack - 12pk / 12oz Cans", 
+        "url": "/p/white-claw-174-variety-pack-12pk-12oz-cans/-/A-51609879", 
+        "release_date": "", 
+        "upc": "635985548904", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 12", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 5.0", 
+            "<B>Proof:</B> 10"
+        ]
+    }, 
+    {
+        "description": "Incredibly refreshing spiked sparkling water with a hint of natural fruit flavor. Pure crisp refreshment  naturally. Named after the legendary rogue 'white claw waves' that travel in sets of three across the oceans, delivering unexpected refreshment from the spray that leaps from their crests as they crash to shore with both strength and beauty.", 
+        "dpci": "213-01-0552", 
+        "brand": "White Claw Hard Seltzer", 
+        "tcin": "51130950", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "51130950_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "51130950", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51130950_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "51130950"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "White Claw Black Cherry - 6pk / 12 fl oz Cans", 
+        "url": "/p/white-claw-black-cherry-6pk-12-fl-oz-cans/-/A-51130950", 
+        "release_date": "", 
+        "upc": "635985200253", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Low carb", 
+                "Nothing artificial", 
+                "Gluten free", 
+                "No high fructose corn syrup", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 fl oz (US)", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> cherry", 
+            "<B>Alcohol Percentage:</B> 5.0", 
+            "<B>Proof:</B> 10"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0587", 
+        "brand": "Truly Spiked & Sparkling", 
+        "tcin": "51405842", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51405842"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Truly&#174; Spiked & Sparkling Water Variety Pack - 12pk / 12oz Cans", 
+        "url": "/p/truly-174-spiked-sparkling-water-variety-pack-12pk-12oz-cans/-/A-51405842", 
+        "release_date": "", 
+        "upc": "087692004240", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 12", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 5.0"
+        ]
+    }, 
+    {
+        "description": "Refreshment for a hard day's night - or day. Mike's is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten.", 
+        "dpci": "213-01-0337", 
+        "brand": "Mike's", 
+        "tcin": "15023383", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15023383"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Black Cherry Lemonade - 6pk / 11.2oz Bottles", 
+        "url": "/p/mike-s-174-hard-black-cherry-lemonade-6pk-11-2oz-bottles/-/A-15023383", 
+        "release_date": "", 
+        "upc": "635985067443", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> cherry", 
+            "<B>Alcohol Percentage:</B> 5.000", 
+            "<B>Proof:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Mike's is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten.", 
+        "dpci": "213-01-0114", 
+        "brand": "Mike's", 
+        "tcin": "15420433", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15420433"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Lemonade - 6pk / 11.2oz Bottles", 
+        "url": "/p/mike-s-174-hard-lemonade-6pk-11-2oz-bottles/-/A-15420433", 
+        "release_date": "", 
+        "upc": "635985100621", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> lemon", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0222", 
+        "brand": "SpikedSeltzer", 
+        "tcin": "51084122", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51084122"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Spiked Seltzer&#174; Variety Pack - 12pk / 12oz Cans", 
+        "url": "/p/spiked-seltzer-174-variety-pack-12pk-12oz-cans/-/A-51084122", 
+        "release_date": "", 
+        "upc": "853897002271", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 12", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 6", 
+            "<B>Proof:</B> 12"
+        ]
+    }, 
+    {
+        "description": "Drink ice cold. Drink responsibly.", 
+        "dpci": "213-01-0306", 
+        "brand": "Smirnoff", 
+        "tcin": "14929677", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14929677"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff&#174; Ice - 6pk / 11.2oz Bottles", 
+        "url": "/p/smirnoff-174-ice-6pk-11-2oz-bottles/-/A-14929677", 
+        "release_date": "", 
+        "upc": "082000723851", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage with natural flavors", 
+                "Delightfully crisp citrus taste", 
+                "Brewed and bottled by the Smirnoff Co"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> lemon", 
+            "<B>Alcohol Percentage:</B> 5.000", 
+            "<B>Proof:</B> 5.600"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0423", 
+        "brand": "Margaritaville", 
+        "tcin": "14983874", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14983874"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Cayman Jack&#174; Margarita Malt Beverage - 6pk / 11.2oz Bottles", 
+        "url": "/p/cayman-jack-174-margarita-malt-beverage-6pk-11-2oz-bottles/-/A-14983874", 
+        "release_date": "", 
+        "upc": "815829010068", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> lime, lemon", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Beer with natural grapefruit flavors. Low carb. Incredibly refreshing spiked sparkling water with a hint of natural fruit flavor. Pure crisp refreshment  naturally.", 
+        "dpci": "213-01-0553", 
+        "brand": "White Claw Hard Seltzer", 
+        "tcin": "51130951", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "51130951_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "51130951_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51130951", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "51130951"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "White Claw Ruby Grapefruit - 6pk / 12 fl oz Cans", 
+        "url": "/p/white-claw-ruby-grapefruit-6pk-12-fl-oz-cans/-/A-51130951", 
+        "release_date": "", 
+        "upc": "635985200284", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Low carb", 
+                "Nothing artificial", 
+                "Gluten free", 
+                "No high fructose corn syrup", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 fl oz (US)", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> grapefruit", 
+            "<B>Alcohol Percentage:</B> 5.0", 
+            "<B>Proof:</B> 10"
+        ]
+    }, 
+    {
+        "description": "Mike's Hard Strawberry Lemonade and Mike's Hard Blood Orange are malt beverages with natural flavors and certified colors; Mike's Hard Black Cherry Lemonade is a malt beverage with natural flavors and artificial colors. Contains 3 hard blood orange; 3 hard lemonade; 3 hard strawberry lemonade; 3 hard black cherry lemonade.", 
+        "dpci": "213-01-0350", 
+        "brand": "Mike's", 
+        "tcin": "14929684", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14929684"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Lemonade My Party Picks - 12pk / 11.2oz Bottles", 
+        "url": "/p/mike-s-174-hard-lemonade-my-party-picks-12pk-11-2oz-bottles/-/A-14929684", 
+        "release_date": "", 
+        "upc": "635985129981", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Variety Pack", 
+                "5% alcohol/volume", 
+                "Crafted to remove gluten"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 fl oz (US)", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 12.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 5.000", 
+            "<B>Proof:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Daily's ready to drink pouches deliver no-hassle frozen Daiquiris that taste like they're just out of the blender. Freeze and enjoy for your next party or anytime you need a Daily's moment. No blenders. No ice. No mess.<br><br>Directions<br>Freeze for about 8 hours and gently massage before serving. Run warm water over the pouch to accelerate thawing. Enjoy in a glass or out of the pouch. Do not microwave.", 
+        "dpci": "213-00-1543", 
+        "brand": "Daily's", 
+        "tcin": "51069821", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51069821"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Daily's&#174; Strawberry Daquiri - 10oz Pouch", 
+        "url": "/p/daily-s-174-strawberry-daquiri-10oz-pouch/-/A-51069821", 
+        "release_date": "", 
+        "upc": "074806184202", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Freeze and enjoy", 
+                "All natural flavors", 
+                "Contains 5% alc/vol", 
+                "10 proof", 
+                "Product of USA"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 10.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Alcohol Percentage:</B> 4.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-00-1544", 
+        "brand": "Daily's", 
+        "tcin": "51069824", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51069824", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51069824"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Daily's Bahama Mama - 10 fl oz Pouch", 
+        "url": "/p/daily-s-bahama-mama-10-fl-oz-pouch/-/A-51069824", 
+        "release_date": "", 
+        "upc": "074806186398", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 10.000 fl oz (US)", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Alcohol Percentage:</B> 4.000"
+        ]
+    }, 
+    {
+        "description": "Spiked sparkling water with natural flavors. Pomegranate 6Pk<br>Directions<br>Please drink responsibly.", 
+        "dpci": "213-01-0541", 
+        "brand": "Truly Spiked & Sparkling", 
+        "tcin": "50979269", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50979269"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Truly&#174; Pomegranate - 6pk / 12oz Bottles", 
+        "url": "/p/truly-174-pomegranate-6pk-12oz-bottles/-/A-50979269", 
+        "release_date": "", 
+        "upc": "087692004141", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Gluten free", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Flavor:</B> pomegranate", 
+            "<B>Alcohol Percentage:</B> 5.0"
+        ]
+    }, 
+    {
+        "description": "The Margarita: The toast of the West was invented with Jose Cuervo Tequila in sunny California in 1938. <br><br>Directions<br>Refrigerate after opening.", 
+        "dpci": "213-11-0008", 
+        "brand": "Jose Cuervo", 
+        "tcin": "14765221", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14765221"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Jose Cuervo&#174; Margarita - 1.75L Bottle", 
+        "url": "/p/jose-cuervo-174-margarita-1-75l-bottle/-/A-14765221", 
+        "release_date": "", 
+        "upc": "811538010993", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Ready to drink", 
+                "9.95% alc/vol", 
+                "19.9 proof", 
+                "Produced by Jose Cuervo"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 4.000 ounces", 
+            "<B>Servings per Container:</B> 15.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> lime", 
+            "<B>Alcohol Percentage:</B> 12.700"
+        ]
+    }, 
+    {
+        "description": "Directions<br>Drink responsibly.", 
+        "dpci": "213-01-0119", 
+        "brand": "Smirnoff", 
+        "tcin": "15295144", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15295144"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff&#174; Green Apple - 6pk / 12oz Bottles", 
+        "url": "/p/smirnoff-174-green-apple-6pk-12oz-bottles/-/A-15295144", 
+        "release_date": "", 
+        "upc": "082000727514", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "4.5% alcohol/volume", 
+                "Made with natural flavors", 
+                "Brewed and bottled by The Smirnoff Co"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> apple", 
+            "<B>Alcohol Percentage:</B> 5.000", 
+            "<B>Proof:</B> 5.600"
+        ]
+    }, 
+    {
+        "description": "Premium malt beverage with natural flavors. www.smirnoff.com. <br><br>Directions<br>Drink responsibly.", 
+        "dpci": "213-01-0331", 
+        "brand": "Smirnoff", 
+        "tcin": "14929683", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14929683"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff&#174; Ice Party Pack - 12pk / 11.2oz Bottles", 
+        "url": "/p/smirnoff-174-ice-party-pack-12pk-11-2oz-bottles/-/A-14929683", 
+        "release_date": "", 
+        "upc": "082000729082", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Original", 
+                "Peach bellini", 
+                "Green apple", 
+                "Screwdriver", 
+                "Brewed and bottled by The Smirnoff Co"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 12.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 5.000", 
+            "<B>Proof:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0418", 
+        "brand": "Smirnoff", 
+        "tcin": "16254635", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16254635"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff&#174; Ice Screwdriver - 6pk / 11.2oz Bottles", 
+        "url": "/p/smirnoff-174-ice-screwdriver-6pk-11-2oz-bottles/-/A-16254635", 
+        "release_date": "", 
+        "upc": "082000757481", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> orange", 
+            "<B>Alcohol Percentage:</B> 5.800"
+        ]
+    }, 
+    {
+        "description": "Spiked sparkling water with natural flavors. Grapefruit & Pomelo 6Pk<br>Directions<br>Please drink responsibly.", 
+        "dpci": "213-01-0540", 
+        "brand": "Truly Spiked & Sparkling", 
+        "tcin": "50979274", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50979274"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Truly&#174; Grapefruit & Pomelo - 6pk / 12oz Bottles", 
+        "url": "/p/truly-174-grapefruit-pomelo-6pk-12oz-bottles/-/A-50979274", 
+        "release_date": "", 
+        "upc": "087692004202", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Gluten free", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Flavor:</B> grapefruit", 
+            "<B>Alcohol Percentage:</B> 5.0"
+        ]
+    }, 
+    {
+        "description": "So you might be asking - what is a cran-passion? Think cold, think hard. Think refreshing blend of mixed fruits, it's my special passionate blend. Taste the difference! - Mike. Crafted to remove gluten. Mike's is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten.", 
+        "dpci": "213-01-0315", 
+        "brand": "Mike's", 
+        "tcin": "14929678", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14929678"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Cranberry Passion Fruit Lemonade - 6pk / 11.2oz Bottles", 
+        "url": "/p/mike-s-174-hard-cranberry-passion-fruit-lemonade-6pk-11-2oz-bottles/-/A-14929678", 
+        "release_date": "", 
+        "upc": "635985606116", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> cranberry", 
+            "<B>Alcohol Percentage:</B> 5.000", 
+            "<B>Proof:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Daily's ready to drink pouches deliver no-hassle frozen Margaritas that taste like they're just out of the blender. Perfect at home freeze and enjoy for your next party or anytime you need a Daily's moment. <br><br>Directions<br>Freeze for about 8 hours and gently massage before serving. Run warm water over the pouch to accelerate thawing. Enjoy in a glass or out of the pouch. Do not microwave.", 
+        "dpci": "213-00-1545", 
+        "brand": "Daily's", 
+        "tcin": "51069823", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51069823"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Daily's&#174; Margarita - 10oz Pouch", 
+        "url": "/p/daily-s-174-margarita-10oz-pouch/-/A-51069823", 
+        "release_date": "", 
+        "upc": "074806184103", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Freeze and enjoy", 
+                "All natural flavors", 
+                "Contains 5% alc/vol (10 proof)", 
+                "Product of USA"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 10.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Alcohol Percentage:</B> 4.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0591", 
+        "brand": "Smirnoff", 
+        "tcin": "51521381", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51521381"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff&#174; Spiked Seltzer Mixed Box - 6pk / 12oz Cans", 
+        "url": "/p/smirnoff-174-spiked-seltzer-mixed-box-6pk-12oz-cans/-/A-51521381", 
+        "release_date": "", 
+        "upc": "082000781424", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> watermelon", 
+            "<B>Alcohol Percentage:</B> 5.0", 
+            "<B>Proof:</B> 10"
+        ]
+    }, 
+    {
+        "description": "This refreshing cocktail is the perfect blend of strawberry, banana and pineapple flavors. Whisk away to a tropical paradise, without checking a bag. Simply freeze and enjoy. No blenders. No ice. No mess. Enjoy anytime. <br><br>Directions<br>Freeze for about 8 hours and gently massage before serving. Run warm water over the pouch to accelerate thawing. Enjoy in a glass or out of the pouch. Do not microwave.", 
+        "dpci": "213-00-1546", 
+        "brand": "Daily's", 
+        "tcin": "51069826", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51069826"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Daily's&#174; Tropical Jamaican Smile - 10oz Pouch", 
+        "url": "/p/daily-s-174-tropical-jamaican-smile-10oz-pouch/-/A-51069826", 
+        "release_date": "", 
+        "upc": "074806189405", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Freeze and enjoy", 
+                "Contains alcohol", 
+                "Made with real fruit", 
+                "5% alc/vol (10 proof)", 
+                "Product of USA"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 10.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Alcohol Percentage:</B> 4.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0547", 
+        "brand": "SpikedSeltzer", 
+        "tcin": "51084145", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51084145"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Spiked Seltzer&#174; Indian River Grapefruit - 6pk / 12oz Cans", 
+        "url": "/p/spiked-seltzer-174-indian-river-grapefruit-6pk-12oz-cans/-/A-51084145", 
+        "release_date": "", 
+        "upc": "853897002318", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> grapefruit", 
+            "<B>Alcohol Percentage:</B> 6", 
+            "<B>Proof:</B> 12"
+        ]
+    }, 
+    {
+        "description": "The Cuervo Margarita you love, with the same calories as a glass of wine. Same delicious, refreshing taste you'd expect from Jose Cuervo, the world's most popular brand of tequila.<br><br>Directions<br>Refrigerate after opening. Keep away from direct sunlight. Drink responsibly. Please recycle.", 
+        "dpci": "213-11-0095", 
+        "brand": "Jose Cuervo", 
+        "tcin": "14985618", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14985618"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Jose Cuervo&#174; Light Margarita - 1.75L Bottle", 
+        "url": "/p/jose-cuervo-174-light-margarita-1-75l-bottle/-/A-14985618", 
+        "release_date": "", 
+        "upc": "811538011006", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Authentic", 
+                "9.95% alc by vol", 
+                "19.9 proof"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 4.000 ounces", 
+            "<B>Servings per Container:</B> 15.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Alcohol Percentage:</B> 9.950"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-11-0109", 
+        "brand": "Skinnygirl", 
+        "tcin": "14904175", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14904175"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Skinnygirl&#174; Original Margarita - 750mL Bottle", 
+        "url": "/p/skinnygirl-174-original-margarita-750ml-bottle/-/A-14904175", 
+        "release_date": "", 
+        "upc": "080686110040", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 4.000 ounces", 
+            "<B>Servings per Container:</B> 6.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> apple", 
+            "<B>Alcohol Percentage:</B> 9.950"
+        ]
+    }, 
+    {
+        "description": "My philosophy's always been when life gives you lemons - make lemonade. Great lemonade! It's all about the taste - using natural ingredients to make lemonades like nobody ever tasted before and always passionate about making them even better. Taste the difference! - Mike.", 
+        "dpci": "213-01-0377", 
+        "brand": "Mike's Hard Lemonade", 
+        "tcin": "21489995", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "21489995"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Strawberry Lemonade - 6pk / 12oz Bottles", 
+        "url": "/p/mike-s-174-hard-strawberry-lemonade-6pk-12oz-bottles/-/A-21489995", 
+        "release_date": "", 
+        "upc": "635985224136", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "5% alcohol/volume", 
+                "Crafted to remove gluten"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 6.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> lemon", 
+            "<B>Alcohol Percentage:</B> 5.200"
+        ]
+    }, 
+    {
+        "description": "Top shelf margarita made with Cuervo Gold Tequila and Grand Marnier Liqueur.<br><br>Directions<br>Refrigerate after opening.", 
+        "dpci": "213-11-0050", 
+        "brand": "Jose Cuervo", 
+        "tcin": "14984931", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14984931"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Jose Cuervo&#174; Golden Margarita - 1.75L Bottle", 
+        "url": "/p/jose-cuervo-174-golden-margarita-1-75l-bottle/-/A-14984931", 
+        "release_date": "", 
+        "upc": "811538010962", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with Grand Marnier", 
+                "Margarita made with tequila and orange liqueur", 
+                "Ready to serve", 
+                "Colored with caramel", 
+                "127% alc by vol"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 4.000 ounces", 
+            "<B>Servings per Container:</B> 15.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> agave", 
+            "<B>Alcohol Percentage:</B> 12.700"
+        ]
+    }, 
+    {
+        "description": "Beer with natural lime flavor. Incredibly refreshing spiked sparkling water with a hint of natural fruit flavor. Pure crisp refreshment  naturally. Named after the legendary rogue 'white claw waves' that travel in sets of three across the oceans, delivering unexpected refreshment from the spray that leaps from their crests as they crash to shore with both strength and beauty.", 
+        "dpci": "213-01-0551", 
+        "brand": "White Claw Hard Seltzer", 
+        "tcin": "51130952", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51130952", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51130952"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "White Claw Natural Lime - 6pk / 12 fl oz Cans", 
+        "url": "/p/white-claw-natural-lime-6pk-12-fl-oz-cans/-/A-51130952", 
+        "release_date": "", 
+        "upc": "635985025986", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Low carb", 
+                "Nothing artificial", 
+                "Gluten free", 
+                "No high fructose corn syrup", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 fl oz (US)", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Flavor:</B> lime", 
+            "<B>Alcohol Percentage:</B> 5.0"
+        ]
+    }, 
+    {
+        "description": "Spiked sparkling water with natural flavor. Colima Lime 6 pk<br>Directions<br>Please drink responsibly.", 
+        "dpci": "213-01-0539", 
+        "brand": "Truly Spiked & Sparkling", 
+        "tcin": "50979273", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50979273"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Truly&#174; Colima Lime - 6pk / 12oz Bottles", 
+        "url": "/p/truly-174-colima-lime-6pk-12oz-bottles/-/A-50979273", 
+        "release_date": "", 
+        "upc": "087692004172", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Gluten free", 
+                "100 calories", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Flavor:</B> lime", 
+            "<B>Alcohol Percentage:</B> 5.00"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-5092", 
+        "brand": "Smirnoff", 
+        "tcin": "51325590", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51325590"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff&#174; Spiked Seltzer Watermelon - 6pk / 12oz Cans", 
+        "url": "/p/smirnoff-174-spiked-seltzer-watermelon-6pk-12oz-cans/-/A-51325590", 
+        "release_date": "", 
+        "upc": "082000781417", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 ounces", 
+            "<B>Servings per Container:</B> .93", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> watermelon", 
+            "<B>Alcohol Percentage:</B> 5.0", 
+            "<B>Proof:</B> 10"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-5091", 
+        "brand": "Smirnoff", 
+        "tcin": "51325589", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51325589"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff&#174; Spiked Seltzer Cranberry Lime - 6pk / 12oz Cans", 
+        "url": "/p/smirnoff-174-spiked-seltzer-cranberry-lime-6pk-12oz-cans/-/A-51325589", 
+        "release_date": "", 
+        "upc": "082000781394", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 ounces", 
+            "<B>Servings per Container:</B> .93", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> lime, cranberry", 
+            "<B>Alcohol Percentage:</B> 5.0", 
+            "<B>Proof:</B> 10"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0603", 
+        "brand": "Henry's Hard Soda", 
+        "tcin": "51612060", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51612060", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51612060"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Henry's Hard Soda Passion Fruit - 6pk / 12 fl oz Bottles", 
+        "url": "/p/henry-s-hard-soda-passion-fruit-6pk-12-fl-oz-bottles/-/A-51612060", 
+        "release_date": "", 
+        "upc": "034100516659", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 fl oz (US)", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> passion fruit", 
+            "<B>Alcohol Percentage:</B> 4.200"
+        ]
+    }, 
+    {
+        "description": "Premium malt beverage. Searching the world. Seeking perfection. Hand crafted. Finest yerba buena mint. New. With real cane sugar. Organic limes & traditional mojito mint. Arguably the most refreshing mojito in the world. Crafted with authentic mojito ingredients you'd find in your local bar in Havana. Organic limes, real cane sugar & traditional mojito mint. At Cayman Jack, it's all about the taste. Cayman Jack searched the world to find the freshest, most natural tasting ingredients. Using only natural cane sugar, organic limes and the traditional mojito mint, used in many bars in Cuba, Cayman Jack's unique mojito recipe has a sophisticated clean finish. So enjoy what is arguably the most refreshing mojito in the world, while Cayman Jack sails off in search of his next amazing cocktail. Flavored ale. Good things come to those who wait - do not drink until you are 21. www.americanvintagebeverage.com. 5.8% alc/vol. Product of USA.<br><br>Directions<br>Craft Knowledge from Cayman Jack: The art of tying the improved clinch knot - the marlin fisherman's stand by. Pass the end of the line through the eye. Wrap it around the standing end about five complete turns. Pass the end back through the loop beside the eye. Then pass the end under the final turn. Tighten the knot and trim the end. Illustrations courtesy of www.animatedknots.com.", 
+        "dpci": "213-01-0515", 
+        "brand": "Margaritaville", 
+        "tcin": "50486499", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50486499"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Cayman Jack&#174; Cuban Mojito - 6pk /12oz Bottles", 
+        "url": "/p/cayman-jack-174-cuban-mojito-6pk-12oz-bottles/-/A-50486499", 
+        "release_date": "", 
+        "upc": "815829011577", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Hand crafted", 
+                "Flavored ale", 
+                "5.8% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> lime, lemon", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Lime margarita made with Jose Cuervo Tequila and Triple Sec.", 
+        "dpci": "213-11-0046", 
+        "brand": "Jose Cuervo", 
+        "tcin": "47985161", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47985161"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Jose Cuervo&#174; Sparkling Margarita - 4pk / 200ml Cans", 
+        "url": "/p/jose-cuervo-174-sparkling-margarita-4pk-200ml-cans/-/A-47985161", 
+        "release_date": "", 
+        "upc": "811538011730", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Pre-mixed drink", 
+                "Natural flavors", 
+                "Made with Cuevo Tequila", 
+                "8% alc/vol"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 200.000 milliliters", 
+            "<B>Servings per Container:</B> 20.000", 
+            "<B>Containers per Package:</B> 4.000", 
+            "<B>Alcohol Type:</B> tequilla", 
+            "<B>Flavor:</B> lime", 
+            "<B>Alcohol Percentage:</B> 8.000", 
+            "<B>Proof:</B> 16.000"
+        ]
+    }, 
+    {
+        "description": "Made with Jose Cuervo tequila and triple sec. The Margarita: The toast of the West was invented with Jose Cuervo Tequila in sunny California in 1938. <br><br>Directions<br>Refrigerate after opening.", 
+        "dpci": "213-11-0009", 
+        "brand": "Jose Cuervo", 
+        "tcin": "14765220", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14765220"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Jose Cuervo&#174; Strawberry Margarita - 1.75L Bottle", 
+        "url": "/p/jose-cuervo-174-strawberry-margarita-1-75l-bottle/-/A-14765220", 
+        "release_date": "", 
+        "upc": "811538011037", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Ready to drink.", 
+                "19.9 proof", 
+                "9.95% alc by vol", 
+                "Produced by Jose Cuervo, Lawrenceburg"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 4.000 ounces", 
+            "<B>Servings per Container:</B> 15.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Alcohol Percentage:</B> 12.700"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0060", 
+        "brand": "Seagram's", 
+        "tcin": "14983875", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14983875"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Seagram's&#174; Escapes Malt Beverage Variety Pack - 12pk / 12oz Bottles", 
+        "url": "/p/seagram-s-174-escapes-malt-beverage-variety-pack-12pk-12oz-bottles/-/A-14983875", 
+        "release_date": "", 
+        "upc": "080432802908", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 12.000", 
+            "<B>Alcohol Percentage:</B> 3.200"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0602", 
+        "brand": "Henry's Hard Soda", 
+        "tcin": "51612061", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51612061", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51612061"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Henry's Hard Soda Lemon Lime - 6pk / 12 fl oz Bottles", 
+        "url": "/p/henry-s-hard-soda-lemon-lime-6pk-12-fl-oz-bottles/-/A-51612061", 
+        "release_date": "", 
+        "upc": "034100516642", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 fl oz (US)", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> lemon, lime", 
+            "<B>Alcohol Percentage:</B> 4.200"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0175", 
+        "brand": "Smirnoff", 
+        "tcin": "47817416", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47817416"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff Ice Peach Bellini - 6pk / 12 fl oz Bottles", 
+        "url": "/p/smirnoff-ice-peach-bellini-6pk-12-fl-oz-bottles/-/A-47817416", 
+        "release_date": "", 
+        "upc": "082000766001", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 fl oz (US)", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> peach, peach", 
+            "<B>Alcohol Percentage:</B> 5.700"
+        ]
+    }, 
+    {
+        "description": "Mike's is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten. When it comes to lemonade, I don't take shortcuts. I made my new Mike's Lite with a bit of honey to create an exceptionally natural taste that's a third lower in calories. Enjoy!", 
+        "dpci": "213-01-0323", 
+        "brand": "Mike's", 
+        "tcin": "14929681", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14929681"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Lite Hard Lemonade - 6pk / 11.2oz Bottles", 
+        "url": "/p/mike-s-174-lite-hard-lemonade-6pk-11-2oz-bottles/-/A-14929681", 
+        "release_date": "", 
+        "upc": "635985068228", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "Sweetened with a touch of natural honey", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> lemon", 
+            "<B>Alcohol Percentage:</B> 3.200", 
+            "<B>Proof:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-5090", 
+        "brand": "Smirnoff", 
+        "tcin": "51325586", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51325586"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff&#174; Spiked Seltzer Orange Mango - 6pk / 12oz Cans", 
+        "url": "/p/smirnoff-174-spiked-seltzer-orange-mango-6pk-12oz-cans/-/A-51325586", 
+        "release_date": "", 
+        "upc": "082000781370", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 ounces", 
+            "<B>Servings per Container:</B> .93", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> vodka", 
+            "<B>Flavor:</B> mango", 
+            "<B>Alcohol Percentage:</B> 5", 
+            "<B>Proof:</B> 10"
+        ]
+    }, 
+    {
+        "description": "Our fans love Twisted Tea Original\u2019s true iced tea taste. <br><br>Directions<br>Serve ice cold.", 
+        "dpci": "213-01-0178", 
+        "brand": "Twisted Tea", 
+        "tcin": "47968472", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47968472"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Twisted Tea&#174; Hard Iced Tea - 6pk / 12oz Cans", 
+        "url": "/p/twisted-tea-174-hard-iced-tea-6pk-12oz-cans/-/A-47968472", 
+        "release_date": "", 
+        "upc": "087692831341", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Naturally sweetened", 
+                "Original recipe", 
+                "5% alcohol/volume", 
+                "Handcrafted by Twisted Tea Brewing Company"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 12.000", 
+            "<B>Alcohol Type:</B> bourbon", 
+            "<B>Flavor:</B> lemon", 
+            "<B>Alcohol Percentage:</B> 5.000", 
+            "<B>Proof:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "A fusion of mango, passion fruit, & blood orange.  Refreshing and perfect for any occasion. Enjoy straight out of a chilled bottle or pour over ice.", 
+        "dpci": "213-01-0181", 
+        "brand": "", 
+        "tcin": "47868669", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47868669"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "KINKY&#174; Cocktails Pink - 6pk / 12oz Bottles", 
+        "url": "/p/kinky-174-cocktails-pink-6pk-12oz-bottles/-/A-47868669", 
+        "release_date": "", 
+        "upc": "084279993812", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "With natural flavors & certified colors", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 1.000 ounces", 
+            "<B>Servings per Container:</B> 12.000", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Flavor:</B> mango, orange, passion fruit", 
+            "<B>Alcohol Percentage:</B> 5.800"
+        ]
+    }, 
+    {
+        "description": "Perfect for a hot day, whether you\u2019re floating down a river or playing a round of golf with your buddies. Our Half & Half combines classic flavors of iced tea and lemonade, with a kick.", 
+        "dpci": "213-01-0113", 
+        "brand": "Twisted Tea", 
+        "tcin": "15604006", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15604006"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Twisted Tea&#174; Original Hard Iced Tea - 6pk / 12oz Bottles", 
+        "url": "/p/twisted-tea-174-original-hard-iced-tea-6pk-12oz-bottles/-/A-15604006", 
+        "release_date": "", 
+        "upc": "087692831020", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "5% alcohol/volume", 
+                "Handcrafted by Twisted Tea Brewing Company"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "4 x strawberry pineapple. 4 x pineapple mandarin orange. 4 x ruby red citrus.  Premium malt beverages with natural flavors and certified colors. Good things come to those who wait - don't drink until you are 21.", 
+        "dpci": "213-01-0497", 
+        "brand": "Palm Breeze", 
+        "tcin": "50424257", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50424257"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Palm Breeze&#174; Variety Pack - 12pk / 8oz Cans", 
+        "url": "/p/palm-breeze-174-variety-pack-12pk-8oz-cans/-/A-50424257", 
+        "release_date": "", 
+        "upc": "635985200239", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "New!", 
+                "Natural flavors", 
+                "Unexpectedly light & refreshing", 
+                "4.5% alcohol/volume", 
+                "Flavored beer"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 8.000 ounces", 
+            "<B>Servings per Container:</B> 8.000", 
+            "<B>Containers per Package:</B> 12.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 4.5", 
+            "<B>Proof:</B> 8.000"
+        ]
+    }, 
+    {
+        "description": "Finally a punch you look forward to. For Mike it's all about the flavor. Here's to a burst of mango! Mike's is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten", 
+        "dpci": "213-01-0401", 
+        "brand": "Mike's Hard Lemonade", 
+        "tcin": "47798643", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47798643"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Mango Punch - 6pk / 12oz Bottles", 
+        "url": "/p/mike-s-174-hard-mango-punch-6pk-12oz-bottles/-/A-47798643", 
+        "release_date": "", 
+        "upc": "635985060703", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> mango", 
+            "<B>Alcohol Percentage:</B> 5.500"
+        ]
+    }, 
+    {
+        "description": "Premium malt beverage with natural flavor and certified colors. Palm Breeze is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten. Good things come to those who wait - don't drink until you are 21. Please recycle.", 
+        "dpci": "213-01-0208", 
+        "brand": "Palm Breeze", 
+        "tcin": "34842460", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "34842460"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Palm Breeze&#174; Sparkling Alcohol Spritz - 6pk / 8oz Cans", 
+        "url": "/p/palm-breeze-174-sparkling-alcohol-spritz-6pk-8oz-cans/-/A-34842460", 
+        "release_date": "", 
+        "upc": "635985260073", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "New!", 
+                "Natural flavors", 
+                "Unexpectedly light & refreshing", 
+                "4.5% alcohol/volume", 
+                "Flavored beer"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 8.000 ounces", 
+            "<B>Servings per Container:</B> 8.000", 
+            "<B>Containers per Package:</B> 12.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> lemon", 
+            "<B>Alcohol Percentage:</B> 8.000", 
+            "<B>Proof:</B> 8.000"
+        ]
+    }, 
+    {
+        "description": "My philosophy's always been when life gives you lemons - make lemonade. Great lemonade! Mike's is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten.", 
+        "dpci": "213-01-0406", 
+        "brand": "Mike's Hard Lemonade", 
+        "tcin": "47798554", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47798554"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Black Raspberry Lemonade - 6pk / 12oz Bottles", 
+        "url": "/p/mike-s-174-hard-black-raspberry-lemonade-6pk-12oz-bottles/-/A-47798554", 
+        "release_date": "", 
+        "upc": "635985060642", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> raspberry", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Margarita with a twist. Malt beverage with natural flavors. Artificial sweetener and artificial colors. Contains alcohol. <br><br>Directions<br>Try it over ice!", 
+        "dpci": "213-01-0111", 
+        "brand": "Bud Light", 
+        "tcin": "47797850", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47797850"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Bud Light&#174; Lime Straw-Ber-Rita - 25oz Can", 
+        "url": "/p/bud-light-174-lime-straw-ber-rita-25oz-can/-/A-47797850", 
+        "release_date": "", 
+        "upc": "018200255052", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 24.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 1", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Alcohol Percentage:</B> 4.500"
+        ]
+    }, 
+    {
+        "description": "Everyone loves flavored margaritas, but no one wants the guilt or the calories. That's why we created the Skinnygirl White Peach Margarita. Made with blue agave silver tequila, and lightly sweetened with agave nectar. <br><br>Directions<br>Refrigerate after opening. Best if consumed within 30 days after opening.", 
+        "dpci": "213-11-0106", 
+        "brand": "Skinny Girl", 
+        "tcin": "14904172", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14904172"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Skinnygirl&#174; White Peach Margarita - 750mL Bottle", 
+        "url": "/p/skinnygirl-174-white-peach-margarita-750ml-bottle/-/A-14904172", 
+        "release_date": "", 
+        "upc": "080686110101", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Open and serve", 
+                "25.4 proof", 
+                "Made with natural flavors", 
+                "12.7% alcohol"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 4.000 ounces", 
+            "<B>Servings per Container:</B> 6.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> peach, lime", 
+            "<B>Alcohol Percentage:</B> 11.700"
+        ]
+    }, 
+    {
+        "description": "Made with natural lime juice and agave nectar. Take it with a pinch of salt. Mike loves a good margarita, so before he would put his name on one, he tasted hundreds of margaritas until he found the perfect balance of taste and refreshment. Mike's Classic Margarita; perfectly blended. Ready to drink.", 
+        "dpci": "213-01-0390", 
+        "brand": "Mike's Hard Lemonade", 
+        "tcin": "47798631", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47798631"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Lemonade Classic Margarita - 6pk / 11.2oz Bottles", 
+        "url": "/p/mike-s-174-hard-lemonade-classic-margarita-6pk-11-2oz-bottles/-/A-47798631", 
+        "release_date": "", 
+        "upc": "635985010265", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "Authentic margarita taste", 
+                "5% alcohol/volume", 
+                "Crafted to remove gluten"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 5.500", 
+            "<B>Proof:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "A cosmopolitan is the most fun, flirty and sexy cocktail you can drink. I created the Skinnygirl White Cranberry Cosmo to give you a more elegant twist on a classic without the guilt. Finally, a pretty, flirty, clear cocktail that won't stain your carpet or couch.", 
+        "dpci": "213-11-0108", 
+        "brand": "Skinnygirl", 
+        "tcin": "14904174", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "14904174", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14904174"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Skinnygirl&#174; White Cranberry Cosmo - 750mL Bottle", 
+        "url": "/p/skinnygirl-174-white-cranberry-cosmo-750ml-bottle/-/A-14904174", 
+        "release_date": "", 
+        "upc": "080686110026", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Open and serve", 
+                "9.95% alc/vol (19.9 proof)", 
+                "19.9 proof", 
+                "Bottled by Skinnygirl Cocktails"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 4.000 ounces", 
+            "<B>Servings per Container:</B> 6.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> apple", 
+            "<B>Alcohol Percentage:</B> 9.950"
+        ]
+    }, 
+    {
+        "description": "When it comes to lemonade, I don't take shortcuts. I made my new Mike's Lite with a bit of honey to create an exceptionally natural taste that's a third lower in calories. Enjoy! - Mike. Mike's is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten", 
+        "dpci": "213-01-0433", 
+        "brand": "Mike's Hard Lemonade", 
+        "tcin": "15102554", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15102554"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Lite Hard Black Cherry Lemonade - 6pk / 11.2oz Bottles", 
+        "url": "/p/mike-s-174-lite-hard-black-cherry-lemonade-6pk-11-2oz-bottles/-/A-15102554", 
+        "release_date": "", 
+        "upc": "635985259244", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> lime", 
+            "<B>Alcohol Percentage:</B> 5.000", 
+            "<B>Proof:</B> 10.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0546", 
+        "brand": "SpikedSeltzer", 
+        "tcin": "51084142", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51084142"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Spiked Seltzer&#174; Cape Cod Cranberry - 6pk / 12oz Cans", 
+        "url": "/p/spiked-seltzer-174-cape-cod-cranberry-6pk-12oz-cans/-/A-51084142", 
+        "release_date": "", 
+        "upc": "853897002288", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> cranberry", 
+            "<B>Alcohol Percentage:</B> 6", 
+            "<B>Proof:</B> 12"
+        ]
+    }, 
+    {
+        "description": "Premium malt beverage with natural flavors and certified colors.  NGood things come to those who wait - don't drink until you are 21. Please recycle.", 
+        "dpci": "213-01-0498", 
+        "brand": "Palm Breeze", 
+        "tcin": "50424510", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50424510"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Palm Breeze&#174; Strawberry Pineapple Sparkling Alcohol Spritz - 6pk / 8oz Cans", 
+        "url": "/p/palm-breeze-174-strawberry-pineapple-sparkling-alcohol-spritz-6pk-8oz-cans/-/A-50424510", 
+        "release_date": "", 
+        "upc": "635985180029", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "New!", 
+                "Natural flavors", 
+                "Unexpectedly light & refreshing", 
+                "4.5% alcohol/volume", 
+                "Flavored beer"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 8.000 ounces", 
+            "<B>Servings per Container:</B> 8.000", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> pineapple, strawberry", 
+            "<B>Alcohol Percentage:</B> 4.5", 
+            "<B>Proof:</B> 8.000"
+        ]
+    }, 
+    {
+        "description": "Directions<br>Keep out of direct sunlight. Drink responsibly.", 
+        "dpci": "213-01-0247", 
+        "brand": "Smirnoff", 
+        "tcin": "34842389", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "34842389"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Smirnoff&#174; Ice Watermelon Mimosa - 6pk / 11oz bottles", 
+        "url": "/p/smirnoff-174-ice-watermelon-mimosa-6pk-11oz-bottles/-/A-34842389", 
+        "release_date": "", 
+        "upc": "082000773696", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with natural flavors", 
+                "5.8 alcohol/volume", 
+                "Brewed and bottled by the Smirnoff Co"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> lemon, blueberry", 
+            "<B>Alcohol Percentage:</B> 5.800"
+        ]
+    }, 
+    {
+        "description": "Premium malt beverage with natural flavor and certified colors. Palm Breeze is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten. Good things come to those who wait - don't drink until you are 21. Please recycle.", 
+        "dpci": "213-01-0209", 
+        "brand": "Palm Breeze", 
+        "tcin": "34842461", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "34842461"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Palm Breeze&#174; Ruby Red Citrus - 6pk / 8oz Cans", 
+        "url": "/p/palm-breeze-174-ruby-red-citrus-6pk-8oz-cans/-/A-34842461", 
+        "release_date": "", 
+        "upc": "635985260103", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "New!", 
+                "Natural flavors", 
+                "Unexpectedly light & refreshing", 
+                "4.5% alcohol/volume", 
+                "Flavored beer"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 8.000 ounces", 
+            "<B>Servings per Container:</B> 8.000", 
+            "<B>Containers per Package:</B> 12.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> lemon", 
+            "<B>Alcohol Percentage:</B> 8.000", 
+            "<B>Proof:</B> 8.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0236", 
+        "brand": "", 
+        "tcin": "46764582", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46764582"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "KINKY&#174; Cocktails Blue - 6pk / 12oz Bottles", 
+        "url": "/p/kinky-174-cocktails-blue-6pk-12oz-bottles/-/A-46764582", 
+        "release_date": "", 
+        "upc": "084279995519", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Perfect for a hot day, whether you\u2019re floating down a river or playing a round of golf with your buddies. Our Half & Half combines classic flavors of iced tea and lemonade, with a kick.", 
+        "dpci": "213-01-0393", 
+        "brand": "Twisted Tea", 
+        "tcin": "47798637", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47798637"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Twisted Tea&#174; Half & Half Hard Iced Tea - 6pk / 12oz Bottles", 
+        "url": "/p/twisted-tea-174-half-half-hard-iced-tea-6pk-12oz-bottles/-/A-47798637", 
+        "release_date": "", 
+        "upc": "087692751021", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "The original", 
+                "5% alcohol/volume", 
+                "Handcrafted by Twisted Tea Brewing Company"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 1.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> lemon", 
+            "<B>Alcohol Percentage:</B> 4.300"
+        ]
+    }, 
+    {
+        "description": "I always say, when life gives you lemons, make lemonade and while you are at it, add peaches. Natural ingredients and a relentless desire to always make it better is my philosophy for the most refreshing lemonades ever - Taste the difference! - Mike.", 
+        "dpci": "213-01-0507", 
+        "brand": "Mike's Hard Lemonade", 
+        "tcin": "50428175", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50428175"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Peach Lemonade - 6pk / 12oz Bottles", 
+        "url": "/p/mike-s-174-hard-peach-lemonade-6pk-12oz-bottles/-/A-50428175", 
+        "release_date": "", 
+        "upc": "635985190028", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "5% alcohol/volume", 
+                "Crafted to remove gluten"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> peach, lemon", 
+            "<B>Alcohol Percentage:</B> 5"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0549", 
+        "brand": "SpikedSeltzer", 
+        "tcin": "51084139", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51084139"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Spiked Seltzer&#174; West Indies Lime - 6pk / 12oz Cans", 
+        "url": "/p/spiked-seltzer-174-west-indies-lime-6pk-12oz-cans/-/A-51084139", 
+        "release_date": "", 
+        "upc": "853897002301", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> lime", 
+            "<B>Alcohol Percentage:</B> 6", 
+            "<B>Proof:</B> 12"
+        ]
+    }, 
+    {
+        "description": "Daily's ready-to-drink pouches deliver no hassle frozen Pina Coladas that taste like they're just out of the blender. Enjoy them straight from your freezer or cooler, for your next party or any time you need a Daily's moment. No blenders. No ice. No mess. <br>Directions<br>Freeze for about 8 hours and gently massage before serving. Run warm water over the pouch to accelerate thawing. Enjoy in a glass or out of the pouch. Do not microwave.", 
+        "dpci": "213-04-0040", 
+        "brand": "Daily's", 
+        "tcin": "15412069", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15412069"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Daily's&#174; Frozen Pina Colada - 10oz Pouch", 
+        "url": "/p/daily-s-174-frozen-pina-colada-10oz-pouch/-/A-15412069", 
+        "release_date": "", 
+        "upc": "074806184400", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "America's premium brand", 
+                "Freeze and enjoy", 
+                "Contains 5% alc/vol (10 proof)", 
+                "Product of USA"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 10.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> pineapple, coconut", 
+            "<B>Alcohol Percentage:</B> 4.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0108", 
+        "brand": "Mike's Hard Lemonade", 
+        "tcin": "14983853", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14983853"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Hard Limeade - 6pk / 11.2oz Bottles", 
+        "url": "/p/mike-s-174-hard-limeade-6pk-11-2oz-bottles/-/A-14983853", 
+        "release_date": "", 
+        "upc": "635985069447", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 11.200 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> lime", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Premium malt beverage.", 
+        "dpci": "213-01-0224", 
+        "brand": "Seagram's Escapes", 
+        "tcin": "34842385", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "34842385"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Seagram's Escapes&#174; Variety Pack - 12pk / 12oz Cans", 
+        "url": "/p/seagram-s-escapes-174-variety-pack-12pk-12oz-cans/-/A-34842385", 
+        "release_date": "", 
+        "upc": "070310012444", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "3 of each flavor", 
+                "Calypso Colada", 
+                "Jamaican Me Happy", 
+                "Peach Fuzzy Navel", 
+                "Strawberry Daiquiri"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 12.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 3.200", 
+            "<B>Proof:</B> 8.600"
+        ]
+    }, 
+    {
+        "description": "A refreshing cooler that is full of great taste.", 
+        "dpci": "213-01-0011", 
+        "brand": "Bartles & Jaymes", 
+        "tcin": "13308397", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13308397"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Bartles & Jaymes&#174; Margarita Malt Cooler - 4pk / 12oz Bottles", 
+        "url": "/p/bartles-jaymes-174-margarita-malt-cooler-4pk-12oz-bottles/-/A-13308397", 
+        "release_date": "", 
+        "upc": "085000001264", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 4.000", 
+            "<B>Alcohol Percentage:</B> 4.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0231", 
+        "brand": "", 
+        "tcin": "51242260", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51242260"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "KINKY&#174; Red Cocktails - 6pk / 12oz Bottles", 
+        "url": "/p/kinky-174-red-cocktails-6pk-12oz-bottles/-/A-51242260", 
+        "release_date": "", 
+        "upc": "084279997865", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-11-0119", 
+        "brand": "Malibu", 
+        "tcin": "14904177", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "14904177", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14904177"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Malibu&#174; Coconut & Pineapple Caribbean Rum Mix - 4pk / 6.8oz", 
+        "url": "/p/malibu-174-coconut-pineapple-caribbean-rum-mix-4pk-6-8oz/-/A-14904177", 
+        "release_date": "", 
+        "upc": "089540520728", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 6.800 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 4.000", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Layer upon layer of puff pastry dough sprinkled with cinnamony sweet goodness. The only things we have left out are cholesterol, eggs, butter, and yeast. A great treat or snack anytime, morning, noon, or night. Weight Watchers PointsPlus Value: 1 (The PointsPlus value for this product was calculated by Barry's Bakery and is provided for informational purposes only. This is not an endorsement, sponsorship or approval of this product or its manufacturer by Weight Watchers International, Inc., the owner of the PointsPlus Registered Trademark.). (2 twists = 1 point). Made in USA.<br><br>Storage<br>French Twists can be frozen. Defrost to room temperature. Do not refrigerate or microwave.", 
+        "dpci": "213-01-0009", 
+        "brand": "Gallo", 
+        "tcin": "13312829", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13312829"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Bartles & Jaymes&#174; Strawberry Daiquiri Malt Cooler- 4pk / 12oz Bottles", 
+        "url": "/p/bartles-jaymes-174-strawberry-daiquiri-malt-cooler-4pk-12oz-bottles/-/A-13312829", 
+        "release_date": "", 
+        "upc": "085000001301", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 4.000", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Alcohol Percentage:</B> 4.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0542", 
+        "brand": "SpikedSeltzer", 
+        "tcin": "51084066", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51084066"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Spiked Seltzer&#174; Cape Cod Cranberry - 6pk / 12oz Bottles", 
+        "url": "/p/spiked-seltzer-174-cape-cod-cranberry-6pk-12oz-bottles/-/A-51084066", 
+        "release_date": "", 
+        "upc": "853897002226", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> cranberry", 
+            "<B>Alcohol Percentage:</B> 6", 
+            "<B>Proof:</B> 12"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-11-0057", 
+        "brand": "Malibu", 
+        "tcin": "15091581", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "15091581_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "15091581_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "15091581", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "15091581"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Malibu&#174; Pink Fizzy Lemonade - 4pk / 27oz Cans", 
+        "url": "/p/malibu-174-pink-fizzy-lemonade-4pk-27oz-cans/-/A-15091581", 
+        "release_date": "", 
+        "upc": "089540521114", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 200.000 milliliters", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 4.000", 
+            "<B>Flavor:</B> lemon", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0235", 
+        "brand": "", 
+        "tcin": "46764581", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46764581"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "KINKY&#174; Cocktails Gold - 6pk / 12oz Bottles", 
+        "url": "/p/kinky-174-cocktails-gold-6pk-12oz-bottles/-/A-46764581", 
+        "release_date": "", 
+        "upc": "084279995618", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0560", 
+        "brand": "Nauti Seltzer", 
+        "tcin": "51152260", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51152260"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Nauti&#174; Seltzer Raspberry - 6pk / 12oz Cans", 
+        "url": "/p/nauti-174-seltzer-raspberry-6pk-12oz-cans/-/A-51152260", 
+        "release_date": "", 
+        "upc": "743041122033", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Flavor:</B> raspberry", 
+            "<B>Alcohol Percentage:</B> 5.0"
+        ]
+    }, 
+    {
+        "description": "We make Spiked Seltzer Indian River Grapefruit using purified water and a few select ingredients. We don't add anything artificial. A blend of cold-pressed fruit essences.", 
+        "dpci": "213-01-0543", 
+        "brand": "SpikedSeltzer", 
+        "tcin": "51084069", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51084069"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Spiked Seltzer&#174; Indian River Grapefruit - 6pk / 12oz Bottles", 
+        "url": "/p/spiked-seltzer-174-indian-river-grapefruit-6pk-12oz-bottles/-/A-51084069", 
+        "release_date": "", 
+        "upc": "853897002172", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "6% alcohol", 
+                "Non-malt beer"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> grapefruit", 
+            "<B>Alcohol Percentage:</B> 6", 
+            "<B>Proof:</B> 12"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0545", 
+        "brand": "SpikedSeltzer", 
+        "tcin": "51084070", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51084070"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Spiked Seltzer&#174; West Indies Lime - 6pk / 12oz Bottles", 
+        "url": "/p/spiked-seltzer-174-west-indies-lime-6pk-12oz-bottles/-/A-51084070", 
+        "release_date": "", 
+        "upc": "853897002158", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> lime", 
+            "<B>Alcohol Percentage:</B> 6", 
+            "<B>Proof:</B> 12"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0558", 
+        "brand": "Nauti Seltzer", 
+        "tcin": "51152256", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51152256"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Nauti&#174; Seltzer Grapefruit - 6pk / 12oz Cans", 
+        "url": "/p/nauti-174-seltzer-grapefruit-6pk-12oz-cans/-/A-51152256", 
+        "release_date": "", 
+        "upc": "743041122026", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Flavor:</B> grapefruit", 
+            "<B>Alcohol Percentage:</B> 5.0"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0559", 
+        "brand": "Nauti Seltzer", 
+        "tcin": "51152258", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51152258"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Nauti&#174; Seltzer Lemon Lime - 6pk / 12oz Cans", 
+        "url": "/p/nauti-174-seltzer-lemon-lime-6pk-12oz-cans/-/A-51152258", 
+        "release_date": "", 
+        "upc": "743041122002", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Flavor:</B> lemon, lime", 
+            "<B>Alcohol Percentage:</B> 5.0"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0544", 
+        "brand": "SpikedSeltzer", 
+        "tcin": "51084065", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51084065"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Spiked Seltzer&#174; Valencia Orange - 6pk / 12oz Bottles", 
+        "url": "/p/spiked-seltzer-174-valencia-orange-6pk-12oz-bottles/-/A-51084065", 
+        "release_date": "", 
+        "upc": "853897002165", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> orange", 
+            "<B>Alcohol Percentage:</B> 6", 
+            "<B>Proof:</B> 12"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-01-0557", 
+        "brand": "Nauti Seltzer", 
+        "tcin": "51152250", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51152250"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Nauti&#174; Seltzer Cranberry - 6pk / 12oz Cans", 
+        "url": "/p/nauti-174-seltzer-cranberry-6pk-12oz-cans/-/A-51152250", 
+        "release_date": "", 
+        "upc": "743041122019", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.00 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 6", 
+            "<B>Flavor:</B> cranberry", 
+            "<B>Alcohol Percentage:</B> 5.0"
+        ]
+    }, 
+    {
+        "description": "3 each: All American Hard Lemonade; Michigan Hard Black Cherry Lemonade; Georgia Hard Peach Lemonade; Oregon Hard Blackberry Lemonade. Mike's is fermented from grains that contain gluten and crafted to remove gluten. The gluten content cannot be verified and this product may contain gluten.", 
+        "dpci": "213-01-0210", 
+        "brand": "Mike's", 
+        "tcin": "17125406", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17125406"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Flavors of America - 12pk / 12 fl oz Cans", 
+        "url": "/p/mike-s-174-flavors-of-america-12pk-12-fl-oz-cans/-/A-17125406", 
+        "release_date": "", 
+        "upc": "492130102103", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Variety Pack", 
+                "Premium malt beverage", 
+                "5% alcohol"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12 fl oz (US)", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 12.000", 
+            "<B>Alcohol Type:</B> liquers", 
+            "<B>Flavor:</B> mixed fruit", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "Mike loves a good margarita, so before he would put his name on one, he tasted hundreds of margaritas until he found the perfect balance of taste and refreshment. Mike's Classic Margarita; perfectly blended. Ready to drink.", 
+        "dpci": "213-01-0424", 
+        "brand": "Mike's Hard Lemonade", 
+        "tcin": "47800185", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47800185"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Mike's&#174; Strawberry Margarita - 6pk / 12oz Bottles", 
+        "url": "/p/mike-s-174-strawberry-margarita-6pk-12oz-bottles/-/A-47800185", 
+        "release_date": "", 
+        "upc": "635985010722", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium malt beverage", 
+                "Authentic margarita taste", 
+                "Natural lime juice and agave nectar", 
+                "5% alcohol/volume"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> 12.000 ounces", 
+            "<B>Servings per Container:</B> 1.000", 
+            "<B>Containers per Package:</B> 6.000", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Alcohol Percentage:</B> 5.000"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "213-11-0037", 
+        "brand": "Sauza", 
+        "tcin": "14904169", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14904169"
+            }
+        ], 
+        "package_dimensions": "", 
+        "title": "Sauza&#174; Sparkling Original Margarita - 750mL Bottle", 
+        "url": "/p/sauza-174-sparkling-original-margarita-750ml-bottle/-/A-14904169", 
+        "release_date": "", 
+        "upc": "080686851011", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": "", 
+        "bullet_description": [
+            "<B>Serving Size:</B> 4.000 ounces", 
+            "<B>Servings per Container:</B> 6.000", 
+            "<B>Containers per Package:</B> 1.000", 
+            "<B>Flavor:</B> apple", 
+            "<B>Alcohol Percentage:</B> 9.950"
+        ]
+    }
+]
